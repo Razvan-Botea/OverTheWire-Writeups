@@ -14,3 +14,4 @@ A program is running automatically at regular intervals from **cron**, the time-
 ## New concepts learned
     - cron = a shell command for scheduling a job (command or script) to run periodically at a fixed time, date, or interval
     - The actions of cron are driven by a _crontab_ (cron table) file. The crontab files are stored where the lists of jobs and other instructions to the cron daemon are kept
+<img width="710" height="166" alt="image" src="https://github.com/user-attachments/assets/10f22ab0-f380-472c-98a5-e76a26738971" />
