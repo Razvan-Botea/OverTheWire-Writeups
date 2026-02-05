@@ -17,7 +17,7 @@ URL:      http://natas20.natas.labs.overthewire.org
 
 - the developer wrote custom functions: `mywrite()` and `myread()` to save session data to a text file
 **Any time that developers go out of their way to avoid using the normal behavior of a function or library is an opportunity to find a bug.**
-![image](images/natas20.png)
+![image](images/natas_20.png)
 - if i submit something in the input provided on the site, `mywrite()` is called
 - first, it check that the input only contains alphanumeric characters, so i cannot do path traversal
 - then, the `$data` variable (which contains the serialized version of `$_SESSION`) is cleared
