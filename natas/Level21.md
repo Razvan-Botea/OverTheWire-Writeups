@@ -9,7 +9,9 @@ URL:      http://natas21.natas.labs.overthewire.org
 - the source code for this site just tells me i need to get a `$_SESSION` key/value pair of "admin=1" to get the password
 
 - if i click the link, it sends me to:
+
 ![image](images/natas_21_2.png)
+
 - this site lets me change different CSS attributes
 
 - the source code defines valid keys, which are the CSS attributes
