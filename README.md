@@ -47,3 +47,5 @@ This repository contains my personal solutions and scripts for the [OverTheWire]
 * **Levels 12–13:** File Upload Vulnerabilities. Bypassing upload filters (extension checks and magic bytes) to upload a PHP web shell.
 * **Levels 14–15:** SQL Injection (SQLi). Bypassing login forms using classic SQL injection and handling Blind SQL injection where no output is returned.
 * **Levels 16–18:** Blind Injection & Session Hijacking. exploiting command injection where grep output is suppressed (side-channel attacks) and predicting session IDs.
+* **Levels 19–20:** Advanced Session Management. Exploiting predictable session IDs (hex encoding) and session storage injection (newline injection).
+* **Levels 21–22:** Co-located Website Logic. Manipulating interactions between two related websites to "poison" the `$_SESSION` variable and redirect flow.
